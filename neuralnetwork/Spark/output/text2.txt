@@ -1,0 +1,16 @@
+any : 1
+in : 1
+system : 1
+all : 1
+a : 5
+that : 3
+to : 7
+was : 1
+there : 1
+with : 1
+from : 1
+some : 2
+great : 2
+of : 7
+and : 4
+the : 5

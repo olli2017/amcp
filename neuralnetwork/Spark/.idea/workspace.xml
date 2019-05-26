@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61865c18-d353-4661-8805-bd179d2f7041" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-401" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/text1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1170">
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lorem_ipsum.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in/lorem_ipsum.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="970" selection-start-column="970" selection-end-column="970" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCount1.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="19" column="96" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\dusmu\.gradle\wrapper\dists\gradle-3.2.1-bin\erlz51pt56t1o6vc7t39cikug\gradle-3.2.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.2.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scala-spark-tutorial-master" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-spark-tutorial-master" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'scala-spark-tutorial-master'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'scala-spark-tutorial-master'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'scala-spark-tutorial-master'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'scala-spark-tutorial-master'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'scala-spark-tutorial-master'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'scala-spark-tutorial-master'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Scaladoc for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scaladoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'scala-spark-tutorial-master'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'scala-spark-tutorial-master'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'scala-spark-tutorial-master'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4585963777987" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="944320948" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="4294207934" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="scala-spark-tutorial-master" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-base-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-base-services-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-cli-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-docs-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-installation-beacon-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-jvm-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-launcher-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-logging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-messaging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-model-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-model-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-open-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-process-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-resources-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-script-kotlin-0.4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-tooling-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-ui-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-wrapper-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-announce-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-antlr-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-build-comparison-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-build-init-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-code-quality-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-composite-builds-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-dependency-management-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-diagnostics-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ear-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ide-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ide-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ide-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ivy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-jacoco-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-javascript-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-jetty-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-java-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-maven-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-osgi-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-plugin-development-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-plugin-use-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-plugins-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-publish-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-reporting-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-resources-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-resources-s3-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-resources-sftp-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-signing-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-task-cache-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-test-kit-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-testing-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-testing-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-testing-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-tooling-api-builders-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../GITHUB/reactive-library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../../../PycharmProjects/HackUniversity/bot" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/ECS/core" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/ECS1/core" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/GitHub/Practise" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/LibraryProject" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/Spring(Dremov)/newco" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/Spring_Lection/newco" value="PREVIEW" />
+        <entry key="D:/EPAM/Projects/pet-sitter" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/WordCount1.scala" />
+        <option value="$PROJECT_DIR$/in/lorem_ipsum.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/WordCount.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="in" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-spark-tutorial-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-spark-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="rdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="scala-spark-tutorial-master_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Data Science/s4ds/chap02" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61865c18-d353-4661-8805-bd179d2f7041" name="Default" comment="" />
+      <created>1558867662086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558867662086</updated>
+      <workItem from="1558867663709" duration="3288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3288000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Build" weight="0.20915033" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" sideWeight="0.50101835" side_tool="true" weight="0.24962178" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10620915" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/word_count.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.2.0/55ba31300f7d31fd5aad78c947479fde28a932ea/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="1202" column="6" selection-start-line="1202" selection-start-column="6" selection-end-line="1202" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="96" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/text1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/lorem_ipsum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="970" selection-start-column="970" selection-end-column="970" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/text2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/text1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>scala-spark-tutorial-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
